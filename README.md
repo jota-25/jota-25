@@ -39,15 +39,19 @@ Aplicación monolítica eficiente para el control y seguimiento de proyectos loc
 
 ---
 
-### <div align="center">
-  <!-- Reemplaza TU_USUARIO_DE_GITHUB en los siguientes enlaces -->
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO_DE_GITHUB&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dracula&locale=es" height="150" alt="github stats" />
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
-### <picture>
-  <!-- Este gráfico de Pacman requiere que configures un Action en tu repositorio, si no lo tienes, puedes dejar el gráfico estático por defecto de GitHub -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/pacman-output/pacman-contribution-graph.svg">
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+###
