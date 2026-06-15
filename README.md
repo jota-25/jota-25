@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 What's Up? I'm Carlos</h1>
 
-<!--
-**jota-25/jota-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap" height="50" alt="frontend technologies" />
+  <br><br>
+  <!-- Backend & BD -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,postgres,mysql,supabase,redis" height="50" alt="backend and databases" />
+  <br><br>
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,maven,prisma" height="50" alt="devops and tools" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+
+### 🛠️ Workers SaaS
+Plataforma SaaS para la gestión de trabajadores con arquitectura robusta y procesamiento en tiempo real.
+*   **Backend:** Node.js, Express, Prisma ORM, PostgreSQL, Redis (Upstash), JWT, Zod, Jest.
+*   **Frontend:** React, Vite, Tailwind CSS, Recharts, Context API.
+*   **Infraestructura:** Docker, GitHub Actions, Vercel, Render, Supabase, Resend.
+
+### 💼 Client Portal
+Portal interactivo para clientes con gestión de documentos y reportes dinámicos.
+*   **Backend:** Node.js, Express, PostgreSQL, Multer, PDFKit, Supabase.
+*   **Frontend:** React, React Router DOM, Recharts, i18next (Soporte Multiidioma).
+*   **Infraestructura:** Vercel, GitHub Actions.
+
+### 🏥 Hospital Management System
+Sistema integral de gestión hospitalaria con altos estándares de seguridad y control de accesos.
+*   **Backend:** Java 17, Spring Boot 3, Spring Security, Hibernate, JWT, Maven.
+*   **Frontend:** React, React Router, Context API.
+*   **Base de Datos:** PostgreSQL, SQL Server.
+
+### 📊 Gestión de Proyecto
+Aplicación monolítica eficiente para el control y seguimiento de proyectos locales.
+*   **Tecnologías:** PHP 8, MySQL, PDO, Bootstrap 5, FPDF, Composer, JavaScript.
+
+---
+
+### <div align="center">
+  <!-- Reemplaza TU_USUARIO_DE_GITHUB en los siguientes enlaces -->
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO_DE_GITHUB&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=dracula&locale=es" height="150" alt="github stats" />
+</div>
+
+### <picture>
+  <!-- Este gráfico de Pacman requiere que configures un Action en tu repositorio, si no lo tienes, puedes dejar el gráfico estático por defecto de GitHub -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/pacman-output/pacman-contribution-graph.svg">
+</picture>
