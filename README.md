@@ -40,7 +40,7 @@ Aplicación monolítica eficiente para el control y seguimiento de proyectos loc
 ---
 
 ### <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jota-25&theme=dracula&border_radius=5)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-stats.vercel.app/api/wakatime?username=jota-25&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://raw.githubusercontent.com/jota-25/jota-25/trophy-output/trophy.svg" height="150" alt="trophy graph" />
 </div>
