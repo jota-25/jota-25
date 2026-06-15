@@ -2,13 +2,13 @@
 
 ### <div align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap" height="50" alt="frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" height="50" alt="frontend technologies" />
   <br><br>
   <!-- Backend & BD -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,postgres,mysql,supabase,redis" height="50" alt="backend and databases" />
   <br><br>
   <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,maven,prisma" height="50" alt="devops and tools" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,maven,prisma" height="50" alt="devops and tools" />
 </div>
 
 ---
@@ -42,16 +42,15 @@ Aplicación monolítica eficiente para el control y seguimiento de proyectos loc
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=jota-25&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/trophy-output/trophy.svg" height="150" alt="trophy graph" />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+### <picture>
+  <!-- Animación de Pacman autogenerada por tu Workflow en la rama pacman-output -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
